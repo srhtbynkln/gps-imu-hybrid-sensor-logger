@@ -24,3 +24,6 @@ release/
 
 # Kotlin
 .kotlin/
+
+# graphify (makine-yerel bilgi grafigi ciktisi)
+graphify-out/
